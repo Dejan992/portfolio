@@ -67,8 +67,8 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>As a detail-oriented developer I strive to build immersive and beautiful web applications through carefully crafted code and user-centric design.
-                            </h2>
+                            <h3>As a detail-oriented developer I strive to build immersive and beautiful web applications through carefully crafted code and user-centric design.
+                            </h3>
                         </header>
         
                         <p>Software development is something I am passionate about, it gives me ability to express myself creatively in a nontraditional way. I love tackling difficult problems and participating in challenging endeavors which make a difference in the world. As a graduate of Fullstack Academy I look forward to continue learning and immersing myself in the field of web development.</p>
