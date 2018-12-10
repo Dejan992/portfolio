@@ -71,8 +71,8 @@ class HomeIndex extends React.Component {
                             </h2>
                         </header>
                         <p>As a detail-oriented developer I strive to build immersive and beautiful web applications through carefully crafted code and user-centric design.</p>
-                        <p>Software development is something I am passionate about, it gives me ability to create in a different way. I love to learn, and in software development you can never stop learning! This is just the beginning.</p>
-                        <p>If you love dogs, consider donating <strong><a href='http://www.aliverescue.org/'>http://www.aliverescue.org/</a></strong> Let's save the world one tail at the time</p>
+                        <p>Software development is something I am passionate about, it gives me ability to express myself creativly in a nontraditional way. I love tackling difficult problems and participating in challenging endeavors which make a difference in the world. I look forward to continue learning and immersing myself in field of mobile development.</p>
+                        <p>If you love dogs, consider donating <strong><a href='http://www.aliverescue.org/'>http://www.aliverescue.org/</a></strong>  Let's save the world one tail at the time</p>
                         <ul className="actions">
                             {/* <li><a href="#" className="button">Learn More</a></li> */}
                         </ul>
