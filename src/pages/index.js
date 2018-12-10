@@ -70,7 +70,7 @@ class HomeIndex extends React.Component {
                             <h2>I am a developer, traveler and dog lover<br />
                             </h2>
                         </header>
-                        <p>Do what makes you happy! Always push yourself to the next level, if you can believe it you can achieve it.</p>
+                        <p>As a detail-oriented developer I strive to build immersive and beautiful web applications through carefully crafted code and user-centric design.</p>
                         <p>Software development is something I am passionate about, it gives me ability to create in a different way. I love to learn, and in software development you can never stop learning! This is just the beginning.</p>
                         <p>If you love dogs, consider donating <strong><a href='http://www.aliverescue.org/'>http://www.aliverescue.org/</a></strong> Let's save the world one tail at the time</p>
                         <ul className="actions">
@@ -79,8 +79,8 @@ class HomeIndex extends React.Component {
                     </section>
                     <section id="three">
                         <h2>Get In Touch</h2>
-                        <p>If you have any questions, please feel free to drop me a line.
-                        <br />I'll get back to you as soon as I can. That's a promise!</p>
+                        <p>If you have any questions, please feel free to fill out the form below.
+                        <br />I'll get back to you as soon as I can.</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
                                 <form method="post" action="https://formspree.io/drajkovic992@gmail.com" >
