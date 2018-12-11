@@ -52,8 +52,8 @@ class HomeIndex extends React.Component {
     }
 
     render() {
-        const siteTitle = "Dejan Rajkovic"
-        const siteDescription = "Personal portfolio page built with gatsbyJs starter"
+        const siteTitle = "Dejan Rajkovic Portfolio Page - Full Stack Developer"
+        const siteDescription = "Personal portfolio page built with GatsbyJs, please send me an email if you have any questions. I am job searching"
 
         return (
             <Layout>
