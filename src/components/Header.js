@@ -11,7 +11,7 @@ class Header extends React.Component {
                     <a href="#" className="image avatar"><img src={avatar} alt="" /></a>
                     <h1><strong>Dejan Rajkovic</strong></h1>
                     <h1>
-                    Full Stack Developer
+                    DevOps Engineer
                   </h1>
                 </div>
                 <Footer />
